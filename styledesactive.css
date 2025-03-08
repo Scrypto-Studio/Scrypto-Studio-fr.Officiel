@@ -1,0 +1,57 @@
+body{
+    background-color: rgba(16, 114, 114, 0.555);
+    color:rgb(0, 0, 116);
+    background-image: linear-gradient(rgb(0, 0, 255),rgb(108, 108, 136));
+    background-image: url(/fond.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+bienvenue{
+    display: block;
+    font-size: 20px;
+    color: blue;
+    font-weight: 200;
+    text-shadow: 
+        5px
+        5px
+        2px
+        rgb(0, 0, 0);
+    text-align: center;
+}
+
+tutoscodage{
+    display: block;
+    color: rgb(255, 0, 0);
+    font-weight: 200;
+    text-align: center;
+    text-decoration: underline double;
+}
+
+textesboutons{
+    display: block;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    border: 4px dotted blue;
+    border-radius: 50px;
+    background-color: aquamarine;
+    width: 25%;
+}
+
+imagesboutons{
+    display: block;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    border: 4px dotted blue;
+    border-radius: 50px;
+    background-color: aquamarine;
+}
+
+tuto{
+    display: block;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    border: 4px  rgb(51, 255, 0);
+    border-radius: 50px;
+    background-color: rgb(255, 0, 0);
+}
